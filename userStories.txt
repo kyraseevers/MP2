@@ -1,0 +1,133 @@
+Chosen scenario: 3. Gas App
+
+User Stories and Prioritization
+(Your stories should be sorted by their priority.
+For example, all priority 1 stories need to be ranked top.
+The order does not matter within the same priority.)
+===============================
+1: 
+Title: <UserStory Name>
+Priority: <Number>
+Units (Story Points): <Number>
+<UserStory Text>
+
+2:
+Title: <UserStory Name>
+Priority: <Number>
+Units (Story Points): <Number>
+<UserStory Text>
+
+3:
+Title: <UserStory Name>
+Priority: <Number>
+Units (Story Points): <Number>
+<UserStory Text>
+
+4:
+Title: <UserStory Name>
+Priority: <Number>
+Units (Story Points): <Number>
+<UserStory Text>
+
+5:
+Title: <UserStory Name>
+Priority: <Number>
+Units (Story Points): <Number>
+<UserStory Text>
+
+6:
+Title: <UserStory Name> 
+Priority: <Number>
+Units (Story Points): <Number>
+<UserStory Text>
+
+7:
+Title: <UserStory Name>
+Priority: <Number>
+Units (Story Points): <Number>
+<UserStory Text>
+
+8:
+Title: <UserStory Name>
+Priority: <Number>
+Units (Story Points): <Number>
+<UserStory Text>
+
+9:
+Title: <UserStory Name>
+Priority: <Number>
+Units (Story Points): <Number>
+<UserStory Text>
+
+10:
+Title: <UserStory Name>
+Priority: <Number>
+Units (Story Points): <Number>
+<UserStory Text>
+
+11:
+Title: <UserStory Name>
+Priority: <Number>
+Units (Story Points): <Number>
+<UserStory Text>
+
+12:
+Title: <UserStory Name>
+Priority: <Number>
+Units (Story Points): <Number>
+<UserStory Text>
+
+
+Iterations
+==========
+
+Hours per Unit: <Hours per Unit>
+Hours per Week: <Hours per Week (choose a number between 20-40)>
+
+* Iteration 1:
+
+** Week 1:
+<User Story Name (User Story Number)>
+<User Story Name (User Story Number)>
+...
+<User Story Name (User Story Number)>
+
+** Week 2:
+<User Story Name (User Story Number)>
+<User Story Name (User Story Number)>
+...
+<User Story Name (User Story Number)>
+
+* Iteration 2:
+
+** Week 3:
+<User Story Name (User Story Number)>
+<User Story Name (User Story Number)>
+...
+<User Story Name (User Story Number)>
+
+** Week 4:
+<User Story Name (User Story Number)>
+<User Story Name (User Story Number)>
+...
+<User Story Name (User Story Number)>
+
+...
+* Iteration N (if needed):
+...
+
+
+Breaking the Most Complex User Story into at Least 3 Tasks
+==========================================================
+
+<User Story Name (User Story Number)>
+Task A: <title>
+<details>
+Task B: <title>
+<details>
+Task C: <title>
+<details>
+...
+Task X: <title>
+<details>
+
