@@ -18,28 +18,28 @@ Units (Story Points): 1
 Find all gas stations within a certain radius of the user’s location.
 
 3:
-Title: <UserStory Name>
-Priority: <Number>
-Units (Story Points): <Number>
-<UserStory Text>
+Title: Rank Gas Stations According to Price
+Priority: 1
+Units (Story Points): 5
+Find gas stations in the area and rank them by the average price of their products.
 
 4:
-Title: <UserStory Name>
-Priority: <Number>
-Units (Story Points): <Number>
-<UserStory Text>
+Title: Get User’s Preferred Distance
+Priority: 1
+Units (Story Points): 1
+Request and store the user's preferred distance in relation to the user’s location
 
 5:
-Title: <UserStory Name>
-Priority: <Number>
-Units (Story Points): <Number>
-<UserStory Text>
+Title: Rank Gas Stations by Company Preference
+Priority: 1
+Units (Story Points): 5
+Take the gas stations in the area and rank them by user’s indicated company preference
 
 6:
-Title: <UserStory Name> 
-Priority: <Number>
-Units (Story Points): <Number>
-<UserStory Text>
+Title: Get Types of Fuel
+Priority: 1
+Units (Story Points): 5
+Get types of gas and/or diesel offered by each gas station.
 
 7:
 Title: <UserStory Name>
