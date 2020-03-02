@@ -6,16 +6,16 @@ For example, all priority 1 stories need to be ranked top.
 The order does not matter within the same priority.)
 ===============================
 1: 
-Title: <UserStory Name>
-Priority: <Number>
-Units (Story Points): <Number>
-<UserStory Text>
+Title: Locate the User
+Priority: 1
+Units (Story Points): 1
+Access a user’s location data as collected by their smart phone, and use this information to pinpoint a user’s exact location.
 
 2:
-Title: <UserStory Name>
-Priority: <Number>
-Units (Story Points): <Number>
-<UserStory Text>
+Title: Find Gas Stations According to Distance
+Priority: 1
+Units (Story Points): 1
+Find all gas stations within a certain radius of the user’s location.
 
 3:
 Title: <UserStory Name>
