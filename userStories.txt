@@ -27,7 +27,7 @@ Find gas stations in the area and rank them by the average price of their produc
 Title: Get User’s Preferred Distance
 Priority: 1
 Units (Story Points): 1
-Request the preferred distance from the user’s location
+Request and store the user's preferred distance in relation to the user’s location
 
 5:
 Title: Rank Gas Stations by Company Preference
@@ -57,7 +57,7 @@ Recommend to users which gas station they should go to based on a variety of ran
 Title: Display Recommendations Page
 Priority: 2
 Units (Story Points): 5
-Design the UI where the recommendations for gas stations are displayed to the user in a user-friendly fashion. It should be apparent which gas stations are the most highly recommended for a particular user.
+Design the interface for gas station recommendations in a user-friendly fashion. It should be apparent which gas stations are the most highly recommended for a particular user.
 
 10:
 Title: Display A Gas Station
@@ -81,8 +81,8 @@ Track gas stations the user has visited since downloading the application
 Iterations
 ==========
 
-Hours per Unit: <Hours per Unit>
-Hours per Week: <Hours per Week (choose a number between 20-40)>
+Hours per Unit: 1 per unit (i.e. 8 units is 8 hours)
+Hours per Week: 20
 
 * Iteration 1:
 
