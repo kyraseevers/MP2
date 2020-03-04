@@ -9,7 +9,7 @@ The order does not matter within the same priority.)
 Title: Locate the User
 Priority: 1
 Units (Story Points): 1
-Access a user’s location data as collected by their smart phone, and use this information to pinpoint a user’s exact location.
+Find location of user's phone.
 
 2:
 Title: Find Gas Stations According to Distance
