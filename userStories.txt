@@ -54,28 +54,29 @@ Units (Story Points): 13
 Recommend to users which gas station they should go to based on a variety of ranking factors. These include price, distance, and user preference.
 
 9:
+Title: Get User's Preferences
+Priority: 1
+Units (Story Points): 1
+Request preferences (ex. Preferred Company) from user.
+
+10:
 Title: Display Recommendations Page
 Priority: 2
 Units (Story Points): 5
 Design the interface for gas station recommendations in a user-friendly fashion. It should be apparent which gas stations are the most highly recommended for a particular user.
 
-10:
+11:
 Title: Display A Gas Station
 Priority: 2
 Units (Story Points): 3
 Display the information for a single gas station (fuel type, price, etc.)
 
-11:
+12:
 Title: Select Favorite Gas Stations
 Priority: 3
 Units (Story Points): 3
 Allow users to save specific gas stations to favorites.
 
-12:
-Title: Gas Stations History
-Priority: 3
-Units (Story Points): 1
-Track gas stations the user has visited since downloading the application
 
 
 Iterations
