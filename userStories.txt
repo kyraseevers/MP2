@@ -94,31 +94,24 @@ Find Gas Stations According to Distance (2)
 Get Types of Fuel (6)
 Get Price of Types of Fuel (7)
 Rank Gas Stations According to Price (3)
-//16 pts
+Get User's Preferences (9)
+Display A Gas Station (11)
+
+Story Points: 20
 
 ** Week 2:
-<User Story Name (User Story Number)>
-<User Story Name (User Story Number)>
-...
-<User Story Name (User Story Number)>
+Rank Gas Stations by Company Preference (5)
+Recommend Gas Stations (8)
+
+Story Points: 18
 
 * Iteration 2:
 
 ** Week 3:
-<User Story Name (User Story Number)>
-<User Story Name (User Story Number)>
-...
-<User Story Name (User Story Number)>
+Display Recommendations Page (10)
+Select Favorite Gas Stations (12)
 
-** Week 4:
-<User Story Name (User Story Number)>
-<User Story Name (User Story Number)>
-...
-<User Story Name (User Story Number)>
-
-...
-* Iteration N (if needed):
-...
+Story Points: 8
 
 
 Breaking the Most Complex User Story into at Least 3 Tasks
