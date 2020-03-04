@@ -118,13 +118,10 @@ Breaking the Most Complex User Story into at Least 3 Tasks
 ==========================================================
 
 Recommend Gas Stations (8)
-Task A: <title>
-<details>
-Task B: <title>
-<details>
-Task C: <title>
-<details>
-...
-Task X: <title>
-<details>
+Task A: Create Database of Gas Stations
+Each gas station should contain information such as: location, types of fuel, fuel prices, company name, etc.
+Task B: Get Relevant Gas Stations
+Get gas stations that fulfill user's specifications (preferences, distance, price, etc.).
+Task C: Rank Gas Stations
+Rank gas stations based on which gas stations meet the most of the user's specifications.
 
