@@ -89,8 +89,11 @@ Hours per Week: 20
 ** Week 1:
 Locate the User (1)
 Get User's Preferred Distance (4)
-...
-<User Story Name (User Story Number)>
+Find Gas Stations According to Distance (2)
+Get Types of Fuel (6)
+Get Price of Types of Fuel (7)
+Rank Gas Stations According to Price (3)
+//16 pts
 
 ** Week 2:
 <User Story Name (User Story Number)>
