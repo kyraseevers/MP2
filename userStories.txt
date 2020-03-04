@@ -27,7 +27,7 @@ Find gas stations in the area and rank them by the average price of their produc
 Title: Get User’s Preferred Distance
 Priority: 1
 Units (Story Points): 1
-Request and store the user's preferred distance in relation to the user’s location
+Request the preferred distance from the user’s location
 
 5:
 Title: Rank Gas Stations by Company Preference
