@@ -87,8 +87,8 @@ Hours per Week: 20
 * Iteration 1:
 
 ** Week 1:
-<User Story Name (User Story Number)>
-<User Story Name (User Story Number)>
+Locate the User (1)
+Get User's Preferred Distance (4)
 ...
 <User Story Name (User Story Number)>
 
