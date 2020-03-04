@@ -1,10 +1,5 @@
 Chosen scenario: 3. Gas App
 
-User Stories and Prioritization
-(Your stories should be sorted by their priority.
-For example, all priority 1 stories need to be ranked top.
-The order does not matter within the same priority.)
-===============================
 1: 
 Title: Locate the User
 Priority: 1
